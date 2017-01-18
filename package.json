@@ -1,0 +1,18 @@
+{
+  "jspm": {
+    "dependencies": {
+      "prosemirror-example-setup": "npm:prosemirror-example-setup@^0.17.0",
+      "prosemirror-menu": "npm:prosemirror-menu@^0.17.0",
+      "prosemirror-model": "npm:prosemirror-model@^0.17.0",
+      "prosemirror-schema-basic": "npm:prosemirror-schema-basic@^0.17.0",
+      "prosemirror-schema-list": "npm:prosemirror-schema-list@^0.17.0",
+      "prosemirror-state": "npm:prosemirror-state@^0.17.0",
+      "prosemirror-view": "npm:prosemirror-view@^0.17.0"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
+  }
+}
